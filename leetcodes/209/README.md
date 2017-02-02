@@ -18,15 +18,15 @@ the subarray [4,3] has the minimal length under the problem constraint.
 - Queue＋贪心算法
 
 ### 解法详细
-简要思路为:
-- 暴力破解法
+
+#### 暴力破解法
 
 > 简要思路为，对输入的数组中的每一个元素，分别计算出能够满足s条件的最小的数组的长度。
 
 具体实现代码可参考 @hz的java实现
 ![java 暴力破解法](./images/hz_bruteforce_java.png)
  
- - Two Pointer
+#### Two Pointer
  > 简要思路为， 在输入的数组中，通过两个指针的移动来找出满足s条件的最小的数组的长度。
  
  
@@ -48,7 +48,23 @@ the subarray [4,3] has the minimal length under the problem constraint.
  @一元硬币的c++实现
        ![two pointer ruby](./images/yuan_twopointer_cpp.png)
        
-       
+
+#### 分治法
+
+pass
+
+#### 二分法
+@隽稚~俞霏 的实现
+         ![juan binary java](./images/juan_binary_java.png)
+         
+#### 队列＋贪心
+@东东的实现
+
+
+@TK的实现
+
+
+
 ### 总结
 
 - 分治算法 
