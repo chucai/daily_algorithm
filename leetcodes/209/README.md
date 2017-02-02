@@ -41,6 +41,14 @@ the subarray [4,3] has the minimal length under the problem constraint.
  
  @david ruby实现
       ![two pointer ruby](./images/david_twopointer_ruby.png)
+      
+ @有问题问寒哥 的ruby实现
+      ![two pointer ruby](./images/han_twopointer_ruby.png)
+ 
+ @一元硬币的c++实现
+       ![two pointer ruby](./images/yuan_twopointer_cpp.png)
+       
+       
 ### 总结
 
 - 分治算法 
