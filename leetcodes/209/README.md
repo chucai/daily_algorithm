@@ -38,6 +38,9 @@ the subarray [4,3] has the minimal length under the problem constraint.
  
  @M.renard java实现
      ![two pointer java](./images/renard_twopointer_java.png)
+     
+ @Jerrold_Gao java实现
+      ![two pointer java](./images/gao_twopointer_java.png)
  
  @david ruby实现
       ![two pointer ruby](./images/david_twopointer_ruby.png)
@@ -50,8 +53,11 @@ the subarray [4,3] has the minimal length under the problem constraint.
        
 
 #### 分治法
+>简要思路为：如果结果在右边，求出右边的最小值；如果结果在左边，求出左边的最小值；如果结果在左边和右边，则求出包含mid的最小值
 
-pass
+@东东 的实现
+![dong divide ruby](./images/dong_divide_ruby.png)
+
 
 #### 二分法
 @隽稚~俞霏 的实现
@@ -59,17 +65,8 @@ pass
          
 #### 队列＋贪心
 @东东的实现
-
+![dong queue ruby](./images/dongdong_queue_ruby.png)
 
 @TK的实现
+![tk queue cpp](./images/dong_divide_ruby.png)
 
-
-
-### 总结
-
-- 分治算法 
-在这篇公众号里面，对分治算法(Divide and Concqure)有比较系统的论述，建议研读。
-
-#### 备忘
-- @Max提交
-- @岁 提交
