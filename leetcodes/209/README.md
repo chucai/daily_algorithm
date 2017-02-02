@@ -15,12 +15,17 @@ the subarray [4,3] has the minimal length under the problem constraint.
 - 滑动窗口
 - 分治算法
 - 二分法
-
 - Queue＋贪心算法
 
 ### 解法详细
-pass
+简要思路为:
+- 暴力破解法
 
+简要思路为，对输入的数组中的每一个元素，分别计算出能够满足s条件的最小的数组的长度。具体实现代码可参考 @hz的java实现
+![java 暴力破解法](./images/hz_brute_java.png "@hz 提交的Java版本")
+ 
+ 
+ 
 ### 总结
 
 - 分治算法 
