@@ -32,22 +32,22 @@ Peak Element: 就是数组中的峰值的值，它大于它左边和右边。
 > 暴力法的复杂度是 O(n) ，不符合题目对时间复杂度的要求，但是适合开拓思路，所以收录了。
 
 @隽稚～俞霏的java实现：
-    ![](./images/隽稚～俞霏-1.jpeg)
+    ![](./images/1.jpeg)
 
 @隽稚～俞霏的java实现：
-    ![](./images/隽稚～俞霏-2.jpeg)
+    ![](./images/2.jpeg)
 
 @有问题问寒哥 的java实现:
-    ![](./images/有问题问寒哥.jpeg)
+    ![](./images/3.jpeg)
 
 @有问题问寒哥 的java实现:
-    ![](./images/有问题问寒哥-2.jpeg)
+    ![](./images/4.jpeg)
 
 @Chirs C. 的 Java 实现:
-    ![](./images/Chirs C-2.jpeg)
+    ![](./images/5.jpeg)
 
 @Jerrold_Gao 的 Java 实现:
-    ![](./images/Jerrold_Gao.jpeg)
+    ![](./images/6.jpeg)
 
 #### 二分法
 > 通过猜测答案，不断缩小问题的区间。二分法是分治算法的典型应用。
@@ -82,34 +82,34 @@ Peak Element: 就是数组中的峰值的值，它大于它左边和右边。
 
 
 @韩医徽Neo 的java实现：
-    ![](./images/韩医徽Neo.jpeg)
+    ![](./images/7.jpeg)
 
 @张拯宇Tom 的 Java 实现:
-    ![](./images/张拯宇Tom.jpeg)
+    ![](./images/8.jpeg)
 
 @Armey郑兆奇的 Java 实现:
-    ![](./images/Armey郑兆奇-1.jpeg)
+    ![](./images/9.jpeg)
 
 @张拯宇Tom 的 Java 实现:
-    ![](./images/Armey郑兆奇-2.jpeg)
+    ![](./images/10.jpeg)
 
 @Chirs C. 的 Java 实现:
-    ![](./images/Chirs C.jpeg)
+    ![](./images/11.jpeg)
 
 @Cifer 的 Java实现:
-    ![](./images/Cifer.jpeg)
+    ![](./images/12.jpeg)
 
 
 @D@vid 的 Ruby 实现:
-    ![](./images/D@vid.jpeg)
+    ![](./images/13.jpeg)
 @D@vid 摘抄的课件解释:
-    ![](./images/D@vid-课件.jpeg)
+    ![](./images/14.jpeg)
 
 @Dmtalent Ding 的 Python 实现:
-    ![](./images/Dmtalent Ding.jpeg)
+    ![](./images/15.jpeg)
 
 @Jerrold_Gao 的 Java 实现:
-    ![](./images/Jerrold_Gao-2.jpeg)
+    ![](./images/16.jpeg)
 
 @Kee 的 Swift 实现:
-    ![](./images/kee.jpeg)
+    ![](./images/17.jpeg)
