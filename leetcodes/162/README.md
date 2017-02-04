@@ -32,21 +32,31 @@ Peak Element: 就是数组中的峰值的值，它大于它左边和右边。
 > 暴力法的复杂度是 O(n) ，不符合题目对时间复杂度的要求，但是适合开拓思路，所以收录了。
 
 @隽稚～俞霏的java实现
+
 ![](./images/1.jpeg)
 
+
 @隽稚～俞霏的java实现：
+
 ![](./images/2.jpeg)
 
-@有问题问寒哥 的java实现
-![](./images/3.jpeg)
 
 @有问题问寒哥 的java实现
+
+![](./images/3.jpeg)
+
+
+@有问题问寒哥 的java实现
+
 ![](./images/4.jpeg)
 
 @Chirs C. 的 Java 实现
+
 ![](./images/5.jpeg)
 
+
 @Jerrold_Gao 的 Java 实现
+
 ![](./images/6.jpeg)
 
 #### 二分法
@@ -85,35 +95,56 @@ Peak Element: 就是数组中的峰值的值，它大于它左边和右边。
 - 关键是写好判断函数, 判断函数可以使用贪心，动态规划等方法
 
 
-@韩医徽Neo 的java实现：
+@韩医徽Neo 的java实现
+
 ![](./images/7.jpeg)
 
+
 @张拯宇Tom 的 Java 实现
+
 ![](./images/8.jpeg)
 
+
 @Armey郑兆奇的 Java 实现
+
 ![](./images/9.jpeg)
 
+
 @张拯宇Tom 的 Java 实现
+
 ![](./images/10.jpeg)
 
+
 @Chirs C. 的 Java 实现
+
 ![](./images/11.jpeg)
 
-@Cifer 的 Java实现:
+
+@Cifer 的 Java实现
+
 ![](./images/12.jpeg)
 
 
 @D@vid 的 Ruby 实现
+
 ![](./images/13.jpeg)
+
+
 @D@vid 摘抄的课件解释
+
 ![](./images/14.jpeg)
 
-@Dmtalent Ding 的 Python 实现:
+
+@Dmtalent Ding 的 Python 实现
+
 ![](./images/15.jpeg)
 
+
 @Jerrold_Gao 的 Java 实现
+
 ![](./images/16.jpeg)
 
+
 @Kee 的 Swift 实现
+
 ![](./images/17.jpeg)
