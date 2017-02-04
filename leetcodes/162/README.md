@@ -1,5 +1,5 @@
 ### 题目
-162. Find Peak Element
+Leetcode 第162题: Find Peak Element
 https://leetcode.com/problems/find-peak-element/
 
 描述如下：
@@ -93,8 +93,8 @@ Peak Element: 就是数组中的峰值的值，它大于它左边和右边。
 
 
 说明
-`adjustment` 是判断函数，来决定下一个取值区间
-`mid = left + (right - left)/2`也可以写成 `mid = (left + right)/2`, 但这种赋值方式有可能内存溢出，动态语言(ruby,python等)不需要考虑这个问题，编译型语言需要考虑int/float的最大值的情况加1导致的内存溢出。
+- `adjustment` 是判断函数，来决定下一个取值区间
+- `mid = left + (right - left)/2`也可以写成 `mid = (left + right)/2`, 但这种赋值方式有可能内存溢出，动态语言(ruby,python等)不需要考虑这个问题，编译型语言需要考虑int/float的最大值的情况加1导致的内存溢出。
 
 二分法需要注意的问题:
 - 二分法的区间需要: 开区间和闭区间
