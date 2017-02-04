@@ -12,3 +12,10 @@ Given an integer array of size n, find all elements that appear more than ⌊ n/
 ###解法详细
 
 
+
+https://en.wikipedia.org/wiki/Boyer–Moore_majority_vote_algorithm
+
+
+Ms的python一句话版本
+
+return map(lambda x:x[0],filter(lambda x:x[1]>len(nums)/3, list([i,nums.count(i)] for i in set(nums))))
