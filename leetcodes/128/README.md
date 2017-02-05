@@ -97,6 +97,10 @@ Leetcode 第128题: Longest Consecutive Sequence
 ![](./images/15.jpeg)
 ![](./images/16.jpeg)
 
+@ElvisWu 通过微信公众号平台提交的 Java 版本
+
+![](./images/17.jpeg)
+
 #### 并查集的解法
 
 @fzy 的 Java 版本
@@ -107,6 +111,5 @@ Leetcode 第128题: Longest Consecutive Sequence
 
 @许大方 的python 版本
 
-![](./images/8.jpeg)
-
+![](./images/8.png)
 
