@@ -45,7 +45,7 @@ Chirs C的Java版本<br />
   Kee的swift版本<br />
   ![image](https://github.com/M-renard/daily_algorithm/blob/master/leetcodes/229/image/Kee_Moore_swift.jpg)<br />
   Dmtalen Ding的python版本<br />
-  ![image](https://github.com/M-renard/daily_algorithm/blob/master/leetcodes/229/image/Dmtalen%20Ding_Moore_swift.jpg)<br />
+  ![image](https://github.com/chucai/daily_algorithm/blob/master/leetcodes/229/image/Dmtalen%20Ding_Moore_python.jpg)<br />
   AriesDevil的go版本<br />
   ![image](https://github.com/M-renard/daily_algorithm/blob/master/leetcodes/229/image/AriesDevil_Moore_go.jpg)<br />
   AKUN的Java版本<br />
