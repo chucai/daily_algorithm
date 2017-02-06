@@ -45,11 +45,11 @@ Chirs C的Java版本<br />
   Kee的swift版本<br />
   ![image](https://github.com/M-renard/daily_algorithm/blob/master/leetcodes/229/image/Kee_Moore_swift.jpg)<br />
   Dmtalen Ding的python版本<br />
-  ![image](https://github.com/M-renard/daily_algorithm/blob/master/leetcodes/229/image/Dmtalen%20Ding_Moore_swift.jpg)<br />
+  ![image](https://github.com/chucai/daily_algorithm/blob/master/leetcodes/229/image/Dmtalen%20Ding_Moore_python.jpg)<br />
   AriesDevil的go版本<br />
   ![image](https://github.com/M-renard/daily_algorithm/blob/master/leetcodes/229/image/AriesDevil_Moore_go.jpg)<br />
   AKUN的Java版本<br />
-  ![image](https://github.com/M-renard/daily_algorithm/blob/master/leetcodes/229/image/AKUN_Moore_java.jpeg)<br />
+  ![image](https://github.com/chucai/daily_algorithm/blob/master/leetcodes/229/image/AKUN_Moore_java.jpg)<br />
   黄xing的Java版本，泛化到求出现次数大于n/size的情况<br />
   ![image](https://github.com/M-renard/daily_algorithm/blob/master/leetcodes/229/image/%E9%BB%84xing_Moore_java.jpg)<br />
 
