@@ -16,7 +16,7 @@
 ####蒙特卡洛算法
 首先是蒙特卡洛算法，也称为统计模拟方法。这个方法的相关说明可以参见如下：
 [Monte Carlo method](https://en.wikipedia.org/wiki/Monte_Carlo_method)<br />
-看英文吃力的可以看一下[百度百科](http://baike.baidu.com/link?url=i5eE5zAbi9PdA9xiFpU7NdAGr0ezkky4LTuWgdA-sMXj-G7oB3gAvYg-84oHKcHSL_iIclv22oR7UUSwsLw2QsF8uSlAjsollJtOvAUwweCmNO1JjAQtlIctpTld5oeRWRnwTt4Ck1l7iSpJOUa8uk3wGgBrJv_6y_UbuHVnXkrLdjwsVUq7YciUJwdQtMhY-9KOxrgM7pKvPaxuxKDaKJpJ9-LGZw__IaN3S3e-8yGhe737mdwDr050ssshzbR80Nm1mRwy2zsTEi6WQ4vNNq)<br />，也有相关介绍
+看英文吃力的可以看一下[百度百科](http://baike.baidu.com/link?url=i5eE5zAbi9PdA9xiFpU7NdAGr0ezkky4LTuWgdA-sMXj-G7oB3gAvYg-84oHKcHSL_iIclv22oR7UUSwsLw2QsF8uSlAjsollJtOvAUwweCmNO1JjAQtlIctpTld5oeRWRnwTt4Ck1l7iSpJOUa8uk3wGgBrJv_6y_UbuHVnXkrLdjwsVUq7YciUJwdQtMhY-9KOxrgM7pKvPaxuxKDaKJpJ9-LGZw__IaN3S3e-8yGhe737mdwDr050ssshzbR80Nm1mRwy2zsTEi6WQ4vNNq)<br />也有相关介绍。
 此题的具体应用参见D@vid的代码，其中的注释写的很清楚
 
 D@vid的ruby版本
@@ -38,29 +38,23 @@ Chirs C的Java版本
  ![image](https://github.com/M-renard/daily_algorithm/blob/master/leetcodes/229/image/WechatIMG32.jpeg)
  ![image](https://github.com/M-renard/daily_algorithm/blob/master/leetcodes/229/image/WechatIMG33.jpeg)
 
-fzy的Java版本
- ![image](https://github.com/M-renard/daily_algorithm/blob/master/leetcodes/229/image/fzy_Moore_java.jpeg?raw=true)
-
-Jerrold_Gao的Java版本
- ![image](https://github.com/M-renard/daily_algorithm/blob/master/leetcodes/229/image/JerroleGao_Moore_java.jpeg)
-
-Kee的swift版本
- ![image](https://github.com/M-renard/daily_algorithm/blob/master/leetcodes/229/image/Kee_Moore_swift.jpg)
-
-Dmtalen Ding的python版本
- ![image](https://github.com/M-renard/daily_algorithm/blob/master/leetcodes/229/image/Dmtalen%20Ding_Moore_swift.jpg)
-
-AriesDevil的go版本
- ![image](https://github.com/M-renard/daily_algorithm/blob/master/leetcodes/229/image/AriesDevil_Moore_go.jpg)
-
-AKUN的Java版本
- ![image](https://github.com/M-renard/daily_algorithm/blob/master/leetcodes/229/image/AKUN_Moore_java.jpeg)
-
-黄xing的Java版本，泛化到求出现次数大于n/size的情况
+  fzy的Java版本
+  ![image](https://github.com/M-renard/daily_algorithm/blob/master/leetcodes/229/image/fzy_Moore_java.jpeg?raw=true)
+  Jerrold_Gao的Java版本
+  ![image](https://github.com/M-renard/daily_algorithm/blob/master/leetcodes/229/image/JerroleGao_Moore_java.jpeg)
+  Kee的swift版本
+  ![image](https://github.com/M-renard/daily_algorithm/blob/master/leetcodes/229/image/Kee_Moore_swift.jpg)
+  Dmtalen Ding的python版本
+  ![image](https://github.com/M-renard/daily_algorithm/blob/master/leetcodes/229/image/Dmtalen%20Ding_Moore_swift.jpg)
+  AriesDevil的go版本
+  ![image](https://github.com/M-renard/daily_algorithm/blob/master/leetcodes/229/image/AriesDevil_Moore_go.jpg)
+  AKUN的Java版本
+  ![image](https://github.com/M-renard/daily_algorithm/blob/master/leetcodes/229/image/AKUN_Moore_java.jpeg)
+  黄xing的Java版本，泛化到求出现次数大于n/size的情况
+  ![image](https://github.com/M-renard/daily_algorithm/blob/master/leetcodes/229/image/%E9%BB%84xing_Moore_java.jpg)
 
 ####分治算法
 最后来看分治算法
 思路是把所有一样的数试图聚集起来，一旦超过n/3就加入result
-
 Jerrold_Gao的Java版本
- ![image](https://github.com/M-renard/daily_algorithm/blob/master/leetcodes/229/image/JerroleGao_%E5%88%86%E6%B2%BB%E6%B3%95_java.jpeg)
+![image](https://github.com/M-renard/daily_algorithm/blob/master/leetcodes/229/image/JerroleGao_%E5%88%86%E6%B2%BB%E6%B3%95_java.jpeg)
