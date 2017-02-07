@@ -1,10 +1,13 @@
 ## 题目
 
-148. Sort List
+h3. Sort List
+
+题号: 148
+时间: 2017-2-7
+地址: https://leetcode.com/problems/sort-list/
 
 > Sort a linked list in O(n log n) time using constant space complexity.
 
-https://leetcode.com/problems/sort-list/
 
 ## 题目解析
 
@@ -34,7 +37,7 @@ https://leetcode.com/problems/sort-list/
 
 @fzy 提供的Java代码:
 
-![](./images/1.png)
+![](./images/1.jpeg)
 
 
 ### 快速排序
