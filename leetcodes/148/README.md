@@ -1,6 +1,6 @@
 ## 题目
 
-h3. Sort List
+Sort List
 
 题号: 148
 时间: 2017-2-7
