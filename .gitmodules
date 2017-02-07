@@ -1,3 +1,6 @@
 [submodule "users/wild-flame"]
 	path = users/wild-flame
 	url = https://github.com/wild-flame/leetcode-ruby
+[submodule "users/users/wild-flame"]
+	path = users/users/wild-flame
+	url = https://github.com/wild-flame/leetcode-ruby
