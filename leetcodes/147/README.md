@@ -14,9 +14,9 @@ Sort a linked list using insertion sort.
 
 本次最优代码由 每日一题2群 的 @柳正来 提供
 
-![](../images/1.png)
+![](./images/1.png)
 
 ### 附录
 附录是以上代码的图表分析
 
-![](../images/2.jpeg)
+![](./images/2.jpeg)
