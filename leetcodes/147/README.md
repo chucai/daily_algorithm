@@ -16,6 +16,10 @@ Sort a linked list using insertion sort.
 
 ![](./images/1.png)
 
+如下是 @柳正来 的解释
+
+![](./images/3.jpeg)
+
 ### 附录
 附录是以上代码的图表分析
 
