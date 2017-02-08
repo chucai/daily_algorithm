@@ -1,6 +1,6 @@
 ### 147. Insertion Sort List
 
-Sort a linked list using insertion sort.
+> Sort a linked list using insertion sort.
 
 ### 题目解析
 
