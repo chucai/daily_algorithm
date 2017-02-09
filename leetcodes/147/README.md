@@ -24,3 +24,5 @@
 附录是以上代码的图表分析
 
 ![](./images/2.jpeg)
+
+附上@黄xing 提供的java代码 [代码](../../users/xing/147_Insertion_Sort_List.java)
