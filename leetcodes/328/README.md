@@ -37,6 +37,9 @@
 @Cifer 提交的 C 版本
 ![](./images/2.jpeg)
 
+
+@黄xing 提交的 [java 版本](../../users/xing/328_Odd_Even_linklist.java) 
+
 ### 布尔类型的标志位
 
 @TK 提交的 C++ 版本
